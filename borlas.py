@@ -3,7 +3,7 @@ from PIL import Image, ImageDraw, ImageFilter
 
 # =================== CONFIGURACIÓN ===================
 
-# URL que quieres codificar
+# URL que se quiere codificar
 url = "https://www.instagram.com/cpcfi.unam/"
 
 # Parámetros de tamaño
