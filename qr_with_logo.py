@@ -10,7 +10,7 @@ def generate_qr_with_logo():
     # === CONFIGURABLE PARAMETERS ===
     url = "https://www.instagram.com/cpcfi.unam/"
     logo_path = "CPCFI.png"
-    output_path = "CPCFI-ig_qr.png"
+    output_path = "generated-logos/CPCFI-ig_qr.png"
     qr_size = 2000
     logo_scale = 0.35  # relative to QR size
 

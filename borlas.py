@@ -110,5 +110,5 @@ final_img.paste(circle, (
 
 # =================== GUARDAR RESULTADO ===================
 
-final_img.save('custom_qr.png')
+final_img.save('generated-logo/custom_qr.png')
 print("QR personalizado generado exitosamente como 'custom_qr.png'.")

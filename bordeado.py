@@ -103,4 +103,4 @@ logo = logo.resize((logo_size, logo_size), Image.LANCZOS)
 img.paste(logo, (center[0] - logo_size//2, center[1] - logo_size//2), logo)
 
 # === Save final image ===
-img.save("custom_qr_code.png")
+img.save("generated-logos/custom_qr_code.png")
